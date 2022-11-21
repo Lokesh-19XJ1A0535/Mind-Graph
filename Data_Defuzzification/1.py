@@ -14,7 +14,6 @@ p = []
 list1 = dframe1['Name'].tolist()
 list2 = dframe2['Name'].tolist()
 
-
 threshold = 50
 
 for i in list1:
